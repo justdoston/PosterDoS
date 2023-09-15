@@ -22,7 +22,7 @@ Speed of your internet plays a big role, if tool doesn't work in expected speed 
 
 Only 1 pc may not enough to test actual power of website. Attacking 1 person is DOS, attacking a lot of peopl is DDOS
 
-EXAMPLES
+EXAMPLE
 
 ![image](https://github.com/offensivecyber03/PosterDoS/assets/71892943/30222f4b-f26c-43c8-805d-01fcd9dfd98d)
 
