@@ -3,6 +3,8 @@ This tool uses flood technique to attack website. Poster  is a DoS powerful and 
 
 How to use
 ![image](https://github.com/offensivecyber03/PosterDoS/assets/71892943/92502398-6010-45d4-ab41-4fc428053857)
+
+
 This tool capable of sending large amount of attack in 1 attempt. In this example number of request  10 thousand, number of attempts 100 it means tool send 100 parallel request in one time. 
 
 How attack works
