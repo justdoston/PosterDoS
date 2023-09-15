@@ -21,3 +21,9 @@ ATTENTION
 Speed of your internet plays a big role, if tool doesn't work in expected speed your internet speed can be possible reason. If you want to send 2005 request in 1 attempt (10 MB data) your internet speed should be higher than 80 Mbps. Because 80 Mbps/8 equal to 10 MB per second.
 
 Only 1 pc may not enough to test actual power of website. Attacking 1 person is DOS, attacking a lot of peopl is DDOS
+
+EXAMPLES
+
+![image](https://github.com/offensivecyber03/PosterDoS/assets/71892943/30222f4b-f26c-43c8-805d-01fcd9dfd98d)
+
+ 
