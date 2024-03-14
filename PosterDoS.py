@@ -13,8 +13,8 @@ def print_banner():
   
   
 A.Doston Follow for more:
-https://github.com/offensivecyber03
-https://instagram.com/offensivecyber
+https://github.com/offensivecyber0
+https://instagram.com/doston_0410
     """
     print(banner)
 
